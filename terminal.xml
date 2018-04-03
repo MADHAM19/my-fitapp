@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="&quot;C:\Windows\System32\cmd.exe&quot; -login -i" />
+    <option name="myPasteOnMiddleMouseButton" value="false" />
+    <option name="myOverrideIdeShortcuts" value="false" />
+  </component>
+</application>
