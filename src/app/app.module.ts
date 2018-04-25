@@ -21,7 +21,7 @@ import {AppRoutingModule} from "./app-routing.module";
     BrowserModule,
     //FormsModule,
     HttpClientModule,
-   // AppRoutingModule,
+    // AppRoutingModule,
     // The HttpClientInMemoryWebApiModule module intercepts HTTP requests
     // and returns simulated server responses.
     // Remove it when a real server is ready to receive requests.
